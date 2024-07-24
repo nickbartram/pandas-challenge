@@ -16,4 +16,4 @@ Notes
         - code from Xpert Learning Assistant used here
         - code does not run consistently while executing the cell in isolation
         - 'Run All' runs this cell consistently
-    (2) the starter code used in creation on this file
+    (2) starter code used in creation on this file
