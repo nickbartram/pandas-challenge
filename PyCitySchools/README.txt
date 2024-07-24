@@ -9,6 +9,7 @@ Contents:
     Parent Directory: PyCitySchools
         - Resources folder ('PyCitySchools/Resources')
         - Main script file ('PyCitySchools/PyCitySchools.ipynb')
+            - Written analysis at the top of this script
         - README file ('PyCitySchools/README.txt')
 Notes
     (1) line 290, binning ["Per Student Budget"]:
